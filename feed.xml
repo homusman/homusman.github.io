@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Virtual Workshop</title>
+    <link href="https://homusman.github.io/feed.xml" rel="self" />
+    <link href="https://homusman.github.io" />
+    <updated>2024-11-18T00:48:44+11:00</updated>
+    <author>
+        <name>Thomas</name>
+    </author>
+    <id>https://homusman.github.io</id>
+
+    <entry>
+        <title>Markdown editor post</title>
+        <author>
+            <name>Thomas</name>
+        </author>
+        <link href="https://homusman.github.io/markdown-editor-post.html"/>
+        <id>https://homusman.github.io/markdown-editor-post.html</id>
+
+        <updated>2024-11-18T00:48:05+11:00</updated>
+            <summary>
+                <![CDATA[
+                    test?? bold
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test??
+<b>bold<b></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>nOT AN EMPTY TITLE</title>
+        <author>
+            <name>Thomas</name>
+        </author>
+        <link href="https://homusman.github.io/not-an-empty-title.html"/>
+        <id>https://homusman.github.io/not-an-empty-title.html</id>
+
+        <updated>2024-11-18T00:47:42+11:00</updated>
+            <summary>
+                <![CDATA[
+                    H1 0 text H1 1
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <div class="post__toc">
+    <h3>TOC</h3>
+    <ul>
+      <li><a href="#h1-0">H1 0</a></li><li><a href="#h1-1">H1 1</a></li>
+    </ul>
+  </div>
+  
+
+    <h2 id="h1-0">
+      H1 0
+    </h2>
+
+  <p>
+    text
+  </p>
+
+    <h2 id="h1-1">
+      H1 1
+    </h2>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>test post</title>
+        <author>
+            <name>Thomas</name>
+        </author>
+        <link href="https://homusman.github.io/test-post.html"/>
+        <id>https://homusman.github.io/test-post.html</id>
+
+        <updated>2024-11-18T00:46:23+11:00</updated>
+            <summary>
+                <![CDATA[
+                    yayyyyy we are postin
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>yayyyyy we are postin</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

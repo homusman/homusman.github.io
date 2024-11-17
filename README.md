@@ -1,2 +1,0 @@
-# homusman.github.io
-GYATT
